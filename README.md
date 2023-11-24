@@ -1,3 +1,5 @@
+### Discussion: https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/14077
+
 # giant-kitten
 
 This is Extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to use more efficiently the new System Fallback Policy of recent Nvidia driver on Windows.
